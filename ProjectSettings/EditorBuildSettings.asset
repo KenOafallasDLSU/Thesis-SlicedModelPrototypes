@@ -5,7 +5,16 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/PrototypeV1.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Dragon4.unity
+    guid: 6200bcea109e61e41869dd7ca4c3d8d6
+  - enabled: 0
+    path: Assets/Scenes/2-Marker-Dragon.unity
+    guid: c6a5bd2917c312247a0255f28634f4cd
+  - enabled: 0
+    path: Assets/Scenes/Protoypre4Thea.unity
+    guid: 431659a3ce345104898febb4425c9815
   m_configObjects: {}
